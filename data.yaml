@@ -1,0 +1,17 @@
+data_yaml = f"""
+path: {YOLO_DIR}
+train: images/train
+val: images/val
+
+nc: 4
+names:
+  0: bolt
+  1: locatingpin
+  2: nut
+  3: washer
+"""
+
+with open("/kaggle/working/data.yaml", "w") as f:
+    f.write(data_yaml)
+
+print("data.yaml created")
