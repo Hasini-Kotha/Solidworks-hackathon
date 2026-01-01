@@ -20,4 +20,4 @@ We employ a YOLOv8  architecture trained from scratch, followed by a carefully t
   
 
 
-# The accuracy of the model is 0.9914285
+# The accuracy of the model is 0.9983333
