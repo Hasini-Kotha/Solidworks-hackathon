@@ -17,7 +17,7 @@ We employ a YOLOv8  architecture trained from scratch, followed by a carefully t
 - Exact hyperparameters preserved (training & inference)
 - Memory-safe inference loop (GPU cleanup per image)
 - Class-specific confidence thresholds
--  
+  
 
 
 # The accuracy of the model is 0.9914285
