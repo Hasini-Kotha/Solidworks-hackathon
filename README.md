@@ -10,6 +10,11 @@ The task focuses on multi-class object detection and counting of mechanical comp
 We employ a YOLOv8  architecture trained from scratch, followed by a carefully tuned inference and post-processing pipeline to generate the final submission.
 
 ---
+#Collaborators
+Varshitha Darisa 
+Github:- https://github.com/D-Varshitha
+Kalpana Bhaskar
+github:- https://github.com/KalpanaBhaskar
 
 # Key Highlights
 
