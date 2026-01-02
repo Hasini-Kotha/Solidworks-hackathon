@@ -13,8 +13,11 @@ We employ a YOLOv8  architecture trained from scratch, followed by a carefully t
 # Collaborators
 
 Varshitha Darisa 
+
 Github:- https://github.com/D-Varshitha
+
 Kalpana Bhaskar
+
 github:- https://github.com/KalpanaBhaskar
 
 # Key Highlights
